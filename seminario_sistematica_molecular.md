@@ -4,26 +4,7 @@
 #### Duración 4 hrs
 #### Por: Vicente J. Castillo Chora
 
-**Qué es un seminario?** \
-Según wikipedia, un **seminario** es una junta especializada que tiene naturaleza técnica y académica, y cuyo objetivo es el de llevar a cabo un estudio profundo de determinadas cuestiones o asuntos, y se ve favorecido cuando se permite una interacción importante entre los participantes.
-
-**Programa:**  
-**Parte 1**
-- Presentación de los participantes. 
-- Proyectos y preguntas evolutivas que podemos abordar desde la sistemática molecular / 25 mins.
-- Trabajos y tesis que se han hecho en el Museo de Zoología / 25 mins. 
-- Ejemplo concreto en aves (obvio!) / 20 mins.
-- Discusión sobre como se puede integrar la sistemática molecular en los proyectos y/o tesis  / 25 mins.
-- Recomendaciones sobre cursos y donde encontrar información.
-
-**Parte 2**
-- Buenas prácticas bioinformáticas.
-- Práctica 1: Descargar y dar formato a los datos.
-- Visualización y edición / conversión entre formatos.
-- Práctica 2: Hacer y discutir un árbol filogenético.
-- Práctica 3: Hacer y discutir una red de haplotipos.
-- Discusión sobre reproducibilidad y disponibilidad del código y los datos.
-
+## Parte 1
 ### 1.1. Proyectos y preguntas evolutivas que podemos abordar desde la sistemática molecular
 
 **Diversidad**
@@ -31,7 +12,7 @@ Según wikipedia, un **seminario** es una junta especializada que tiene naturale
 Hay múltiples enfoques para estudiar la diversidad.
  ![](figuras/diversidad.png)
 
-Descritivo. \
+Descriptivo. \
 Fisiológico. \
 Morfológico. \
 Asociación con el ambiente.
@@ -47,18 +28,17 @@ Eso se puede hacer desde distintos enfoques...
 **Algunas consideraciones:**  
 Identificación inexacta. \
 Proceso de especiación es continuo. \
-Carácteres con más peso \
+Carácteres con más peso. \
 Muestreo incompleto de linages (extinción).
 
-Con el uso de filogenia moleculares, no eliminamos estas fuentes de error, pero al menos las podemos reducir y cuantificar. \
-Se ha observado que tienden a resolver relaciones complejas, ya sea muy recientes o profundas. \
-Recuperan los patrones obtenidos por otros métodos. \
-**Una filogenía molecular nos permite incorporar la noción de tiempo.**
+- Con el uso de filogenia moleculares, no eliminamos estas fuentes de error, pero al menos las podemos reducir y cuantificar. 
+- Se ha observado que tienden a resolver relaciones complejas, ya sea muy recientes o profundas. 
+- Recuperan los patrones obtenidos por otros métodos. 
+- **Una filogenía molecular nos permite incorporar la noción de tiempo.**
 
-**Información adicional**
-Una filogenia molecular permite proponer y probar hipótesis evolutivas.
+**Las filogenias moleculares nos permiten formular preguntas e hipótesis evolutivas.**
 
-- Tasas de especiación y extinción en diferentes linages. 
+- Tasas de especiación y extinción en diferentes linages. \
 ![](figuras/tasas.png)
 
 - Probar hipótesis biogeográficas (e.g., el efecto de una barrera en la diversificación).
@@ -69,9 +49,9 @@ Una filogenia molecular permite proponer y probar hipótesis evolutivas.
 - Para analizar si un carácter se asocia con mayores tasas de diversificación.
 - O estimar las tasas de cambio de un estado de caracter, en este caso la distribución.
 
-![](figuras/caracter_evol.png)
+![](figuras/caracter_evol.png)\
 
-- Probar hipótesis de coevolución.
+- Probar hipótesis de coevolución. \
 ![](figuras/coevol.png)
 
 Entre un extenso etcétera... 
@@ -174,7 +154,7 @@ Genética poblaciones \
 Biogeografía 2
 
 **Otras fuentes**\
-Artículos científicos\
 GitHub\
 Manuales\
-Otras personas.
+Artículos científicos \
+Comunicación personal 
